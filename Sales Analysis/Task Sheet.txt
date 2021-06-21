@@ -1,0 +1,9 @@
+Answer the following questions using the available data set. Data visualization is always preferred
+
+1- Is the data clean? If not then clean it as per requirements-
+#Data Exploration
+2- What was the best month for sales? How much was earned that month?
+3- What city sold the most product?
+4- What time should we display advertisements to maximize likelihood of customer's buying product?
+5- What products are most often sold together?
+6- What product sold the most? Why do you think it sold the most? Justify your hypothesis like a good data scientist. 
